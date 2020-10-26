@@ -2,3 +2,4 @@ teste
 Entendendo o Head
 Ests linha foi modificada no ramo master
 esta linha foi modificada no ramo teste
+nova linha de código adiconado ao arquivo a.txt
